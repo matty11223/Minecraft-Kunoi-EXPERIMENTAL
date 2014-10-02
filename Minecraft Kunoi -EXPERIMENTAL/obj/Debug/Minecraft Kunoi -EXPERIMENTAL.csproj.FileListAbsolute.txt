@@ -1,0 +1,2 @@
+C:\Users\Matt\Source\Workspaces\Enigma Sign-Up\Minecraft Kunoi -EXPERIMENTAL\Minecraft Kunoi -EXPERIMENTAL\bin\Debug\Minecraft Kunoi -EXPERIMENTAL.exe.config
+C:\Users\Matt\Documents\GitHub\MinecraftKunoi\Minecraft Kunoi -EXPERIMENTAL\Minecraft Kunoi -EXPERIMENTAL\bin\Debug\Minecraft Kunoi -EXPERIMENTAL.exe.config
